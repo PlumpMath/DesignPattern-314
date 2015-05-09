@@ -1,4 +1,5 @@
-# Observer Pattern (A.K.A. Publish-Subscribe, Dependents)
+# Observer Pattern 
+**A.K.A. Publish-Subscribe, Dependents**
 
 ## Intent
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
