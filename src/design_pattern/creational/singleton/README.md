@@ -9,7 +9,7 @@ Use the Singleton pattern when
 - when the sole instance should be extensible by subclassing, and clients should be able to use an extended instance without modifying their code.
 
 ## Participants
-### Singleton
+-### Singleton
     * defines an Instance operation that lets clients access its unique instance.
      *asd
     * may be responsible for creating its own unique instance.
