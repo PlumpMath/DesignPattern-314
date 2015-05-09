@@ -1,4 +1,4 @@
-package design_pattern.creational_pattern.singleton;
+package design_pattern.creational.singleton;
 
 public class SingleObject {
     
