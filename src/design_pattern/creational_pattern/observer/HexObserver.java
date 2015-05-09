@@ -1,4 +1,4 @@
-package design_pattern.observer;
+package design_pattern.creational_pattern.observer;
 
 public class HexObserver extends Observer {
 
